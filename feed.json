@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dalelab",
+    "description": "",
+    "home_page_url": "https://www.dalelab.net",
+    "feed_url": "https://www.dalelab.net/feed.json",
+    "user_comment": "",
+    "icon": "https://www.dalelab.net/media/website/gh-dalelab-logo.png",
+    "author": {
+        "name": "jpenalozaa"
+    },
+    "items": [
+    ]
+}
